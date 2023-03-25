@@ -1,0 +1,7 @@
+Employee# Employee-Name Marital-Status Age Salary
+0089 M.Huang S 18 49000 
+2009 Mith.Dan S 26 12000 
+1109 T.Fal M 31 16400 
+1008 H.Holly S 24 14800 
+0118 H.Onda S 19 22000 
+0128 B.Smith M 19 11000 
